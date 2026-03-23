@@ -7,7 +7,7 @@ This guide maps out how we work, how we lead, and how we keep our space amazing.
 ![Description](https://drive.google.com/thumbnail?id=1u1_Mebw0WiAgEy98OZ64ls9IW0oCBlAh&sz=w800)
 <p class="drive-image-caption">Figure 1: Aesthetic Centre</p>
 
-🌟 1. The Core Philosophy: *Learn, Lead, Leave it Better*
+## 🌟 1. The Core Philosophy: *Learn, Lead, Leave it Better*
 
 Our goal is to move from being just *users* to *innovators.* We aim for a 7/10 to 10/10 accessibility rating by making the lab the most welcoming place on campus.
 
@@ -140,9 +140,16 @@ A messy lab is a can be a sign of work happening in the Lab but accountability m
 
 The *Mini Museum*: Completed projects aren't left on tables; they are displayed in a sorted, styled museum area.
 
+![Description](https://drive.google.com/thumbnail?id=1yRof79m56ErH8kVPm6gxHPh9iEseOeXI&sz=w800)
+<p class="drive-image-caption">Figure 1: Student Led Session</p>
+
 The Foot Mat & Cleaning Rule: No mud on laptops! A deep clean happens once a week by the incharges.
 
 ## Laptops:
+
+![Description](https://drive.google.com/thumbnail?id=1k0b5CXf3Fl3dSWvwzw8ZvDM5CX_z4-TL&sz=w800)
+<p class="drive-image-caption">Figure 1: Student Led Session</p>
+
 
 Labeling System: * Laptops: Numbered and tracked with stickers.
 If a student is using the laptop then they will have to toggle on the switch on the Web app.
@@ -156,7 +163,7 @@ image of the disposable material for laser cutting
 
 ## 🛡️ 5. The *Do’s and Don’ts* (The Core Team Code)
 
-Strict rules ensure creative freedom.
+Strict rules ensure creative freedom and accessibility
 
 ### ✅ DO:
 
