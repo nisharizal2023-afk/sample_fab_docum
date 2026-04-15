@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: About me
 ---
 
 # About Me
@@ -25,14 +25,13 @@ title: About Me
 
 <div class="profile-info" markdown>
 
-## Your Name Here
+## Nisha Rizal
 
 **Title / Role** — student
 
-> _"Add your favorite quote or personal tagline here."_
+> _"wassup guys."_
 
-A short paragraph about yourself. Describe who you are, what you're passionate about,
-and what drives you. Keep it personal and authentic — this is your space!
+hi, I am Nisha Rizal, I am 15.
 
 </div>
 
@@ -44,18 +43,18 @@ and what drives you. Keep it personal and authentic — this is your space!
 
 | Year | Degree / Grade | School |
 |------|-----------------|-------------|
-| 2024 – Present | B.Sc. in Your Major | Your University |
-| 2020 – 2024 | Higher Secondary | Your School/College |
+| 2026 – Present | none | none|
+| 2024 – 2028 | Higher Secondary-year 10 | TRA|
 
 ## 🛠️ Skills
 
 <div markdown>
 
-<span class="skill-badge">Python</span>
-<span class="skill-badge">JavaScript</span>
-<span class="skill-badge">Arduino</span>
-<span class="skill-badge">MkDocs</span>
-<span class="skill-badge">Git & GitHub</span>
+<span class="skill-badge">Dance</span>
+<span class="skill-badge">Sing</span>
+<span class="skill-badge">English</span>
+<span class="skill-badge">Dzongkha</span>
+<span class="skill-badge">Economy</span>
 <span class="skill-badge">3D Printing</span>
 <span class="skill-badge">CAD Design</span>
 <span class="skill-badge">Electronics</span>
@@ -71,10 +70,10 @@ and what drives you. Keep it personal and authentic — this is your space!
 
 ## 🌟 Interests
 
-- 🔬 **Research Area 1** — Brief description of your interest
-- 🎨 **Creative Hobby** — Brief description
-- 🏃 **Sports / Activity** — Brief description
-- 📚 **Reading / Learning** — Brief description
+- 🔬 **Research Area 1** — geo work
+- 🎨 **Creative Hobby** — reading/dance
+- 🏃 **Sports / Activity** — Atheletics
+- 📚 **Reading / Learning** — idk man
 
 <hr class="section-divider">
 
